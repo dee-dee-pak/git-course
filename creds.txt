@@ -1,2 +1,0 @@
-usernae =deepak07
-password =Deepak123
